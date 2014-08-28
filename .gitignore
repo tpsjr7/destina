@@ -1,0 +1,9 @@
+CMakeCache.txt
+CMakeFiles/
+Makefile
+Python/cmake_install.cmake
+Python/pydestina.py
+Python/swig_destina_pythonPYTHON_wrap.cxx
+Python/swig_destina_pythonPYTHON_wrap.h
+build/
+cmake_install.cmake
